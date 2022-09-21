@@ -7,7 +7,7 @@
 1. Clone project :
 
     ```sh
-    git clone https://github.com/nanoninja/docker-gogs-mysql.git
+    git clone https://github.com/ryan-nuprobe/docker-gogs-mysql.git
     ```
 
 2. You could customize your settings before installation :
